@@ -20,8 +20,8 @@
     "sourceCodeHash": "0x0ef8461e8bc55314e61e60924465574db17bdf30bbbfe9739b52cac623bba2db"
   },
   "src/L1/OPContractsManagerStandardValidator.sol:OPContractsManagerStandardValidator": {
-    "initCodeHash": "0xbe11f1f682870fef423354ea210151a91f82703e5524dbe2f9a3221bedbe5ed7",
-    "sourceCodeHash": "0x983f90f2198b5116b5498081a909ce1c6a88019a0005bbad2e462c10cd83fcbb"
+    "initCodeHash": "0x0efca7e5a55d7958ed35f5a66e1e50c1b24f02acc817a43980bfc76b528140d9",
+    "sourceCodeHash": "0xa2cee81c7b1be17227c883f78cbe18b473a901fcb4da4466b53cc94d42a2611f"
   },
   "src/L1/OptimismPortal2.sol:OptimismPortal2": {
     "initCodeHash": "0x67bbf6c9b344870cdbd7b041ddad6fb69057a4b48ec6dd96876af55d14fc1943",
